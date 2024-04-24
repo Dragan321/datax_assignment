@@ -1,0 +1,14 @@
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.AssemblyInfoInputs.cache
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.AssemblyInfo.cs
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.csproj.CoreCompileInputs.cache
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\bin\Debug\net8.0\Assignment without dependencies.exe
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\bin\Debug\net8.0\Assignment without dependencies.deps.json
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\bin\Debug\net8.0\Assignment without dependencies.runtimeconfig.json
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\bin\Debug\net8.0\Assignment without dependencies.dll
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\bin\Debug\net8.0\Assignment without dependencies.pdb
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.dll
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\refint\Assignment without dependencies.dll
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.pdb
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\Assignment without dependencies.genruntimeconfig.cache
+C:\Users\XY\Desktop\datax_assignment\Assignment without dependencies\Assignment without dependencies\obj\Debug\net8.0\ref\Assignment without dependencies.dll
